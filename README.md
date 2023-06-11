@@ -1,6 +1,6 @@
 <img src="./utils/logo.jpg" height="100">
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miranthajayatilake/kudle/blob/main/LICENSE) [![version](https://img.shields.io/badge/version-0.3-yellow)]() [![discord](https://img.shields.io/badge/chat-discord-blueviolet)](https://discord.gg/Pu2YJDzScZ)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/miranthajayatilake/kudle/blob/main/LICENSE) [![version](https://img.shields.io/badge/version-0.3-yellow)]() [![discord](https://img.shields.io/badge/chat-discord-blueviolet)](https://discord.gg/KxHPMsBdyp)
 
 # nanoQA 2.0
 
